@@ -82,7 +82,7 @@ echo "        </div>\n";
 */
 echo "        <div class=\"container\">\n";
 echo "            <h2 style=\"font-weight: bold; font-family:  Poppins; color:rgb(90, 89, 89); padding-top: 20PX;\"><br>\n";
-echo "             Giving is not just about Donation <br>It is about making a differnce</h2>\n";
+echo "             Giving is not just about Donation <br>It is about making a difference</h2>\n";
 echo "            <h3 style=\"color: rgb(253, 119, 197); font-family: Poppins; padding-bottom: 25PX;\">DONATE US</h3>\n";
 echo "                <!-- Payment Button -->\n";
 echo "                <form style=\"padding: 5px;\"> \n";
